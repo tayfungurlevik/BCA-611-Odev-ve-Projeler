@@ -9,27 +9,18 @@ void drawScene(void)
 
 	glColor3f(0.0, 0.0, 0.0);
 	glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
-	// Draw a polygon with specified vertices.
+	
 	glBegin(GL_TRIANGLE_STRIP);
 	glColor3f(0.0, 0.0, 1.0);
 	glVertex3f(10.0, 10.0, 0.0); // Vertex 0
-	//glColor3f(1.0, 0.0, 0.0);
 	glVertex3f(30.0, 30.0, 0.0); // Vertex 1
-	//glColor3f(0.0, 1.0, 0.0);
 	glVertex3f(90.0, 10.0, 0.0); // Vertex 2
-	//glColor3f(0.0, 0.0, 1.0);
 	glVertex3f(70, 30.0, 0.0); // Vertex 3
-	//glColor3f(1.0, 1.0, 0.0);
 	glVertex3f(90, 90, 0.0); // Vertex 4
-	//glColor3f(1.0, 0.0, 1.0);
 	glVertex3f(70, 70, 0.0); // Vertex 5
-	//glColor3f(0.0, 1.0, 1.0);
 	glVertex3f(10, 90.0, 0.0); // Vertex 6
-	//glColor3f(1.0, 0.0, 0.0);
 	glVertex3f(30.0, 70.0, 0.0); // Vertex 7
-	//glColor3f(0.0, 0.0, 0.0);
 	glVertex3f(10.0, 10.0, 0.0); // Vertex 8 = Vertex 0
-	//glColor3f(1.0, 0.0, 0.0);
 	glVertex3f(30.0, 30.0, 0.0); // Vertex 9 = Vertex 1
 	glEnd();
 
