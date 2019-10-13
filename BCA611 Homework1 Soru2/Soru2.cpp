@@ -37,7 +37,7 @@ int main()
 	cout << "1/kok(2) nin gercek degeri: " << gercekDeger << endl;
 	cout << "1 / kok(2) nin quake yontemiyle hesaplanan degeri: " << quakeDeger << endl;
 	cout << "Hata orani: " << abs(gercekDeger - quakeDeger) / gercekDeger << endl;
-	cout << "Newton Raphson yontemiyle 2 iterasyon sonucu 1 / kok(2):" << quakeDeger2 << endl;
+	cout << "Newton yontemiyle 2 iterasyon sonucu 1 / kok(2):" << quakeDeger2 << endl;
 	cout << "Hata orani: " << abs(gercekDeger - quakeDeger2) / gercekDeger << endl;
 	return 0;
 }

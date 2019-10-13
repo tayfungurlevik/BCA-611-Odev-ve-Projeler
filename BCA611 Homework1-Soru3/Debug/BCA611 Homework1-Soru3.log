@@ -1,5 +1,5 @@
 ﻿  Soru3.cpp
-C:\Users\tgurl\Documents\GitHub\BCA-611-Odev-ve-Projeler\BCA611 Homework1-Soru3\Soru3.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\tgurl\Documents\GitHub\BCA-611-Odev-ve-Projeler\BCA611 Homework1-Soru3\Soru3.cpp(13,76): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\tgurl\Documents\GitHub\BCA-611-Odev-ve-Projeler\BCA611 Homework1-Soru3\Soru3.cpp(13,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-  BCA611 Homework1-Soru3.vcxproj -> C:\Users\tgurl\Documents\GitHub\BCA-611-Odev-ve-Projeler\BCA611 Homework1-Soru3\Debug\BCA611 Homework1-Soru3.exe
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\BCA611 Homework1-Soru3\Soru3.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\BCA611 Homework1-Soru3\Soru3.cpp(11,76): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\BCA611 Homework1-Soru3\Soru3.cpp(11,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  BCA611 Homework1-Soru3.vcxproj -> C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\BCA611 Homework1-Soru3\Debug\BCA611 Homework1-Soru3.exe
