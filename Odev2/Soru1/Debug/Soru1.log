@@ -1,0 +1,4 @@
+﻿  poly_line.cpp
+D:\repos\BCA-611-Odev-ve-Projeler\Odev2\poly_line.cpp(54,23): warning C4018: '<': signed/unsigned mismatch
+D:\repos\BCA-611-Odev-ve-Projeler\Odev2\poly_line.cpp(56,24): warning C4018: '<': signed/unsigned mismatch
+  Soru1.vcxproj -> D:\repos\BCA-611-Odev-ve-Projeler\Odev2\Soru1\Debug\Soru1.exe
