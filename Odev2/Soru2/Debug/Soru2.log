@@ -1,0 +1,10 @@
+﻿  Soru2.cpp
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev2\Soru2\Soru2.cpp(12,31): warning C4101: 'E7': unreferenced local variable
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev2\Soru2\Soru2.cpp(12,23): warning C4101: 'E5': unreferenced local variable
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev2\Soru2\Soru2.cpp(12,15): warning C4101: 'E3': unreferenced local variable
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev2\Soru2\Soru2.cpp(12,35): warning C4101: 'E8': unreferenced local variable
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev2\Soru2\Soru2.cpp(12,19): warning C4101: 'E4': unreferenced local variable
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev2\Soru2\Soru2.cpp(12,11): warning C4101: 'E2': unreferenced local variable
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev2\Soru2\Soru2.cpp(12,27): warning C4101: 'E6': unreferenced local variable
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev2\Soru2\Soru2.cpp(12,7): warning C4101: 'E1': unreferenced local variable
+  Soru2.vcxproj -> C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev2\Soru2\Debug\Soru2.exe
