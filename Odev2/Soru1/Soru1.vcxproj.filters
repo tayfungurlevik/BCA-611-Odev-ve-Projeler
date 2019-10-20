@@ -15,13 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\poly_line.cpp">
+    <ClCompile Include="Soru1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\dino.dat">
-      <Filter>Source Files</Filter>
-    </None>
   </ItemGroup>
 </Project>

@@ -19,10 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\poly_line.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\dino.dat" />
+    <ClCompile Include="Soru1.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

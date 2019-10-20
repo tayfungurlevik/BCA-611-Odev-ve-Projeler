@@ -5,7 +5,7 @@
 using namespace std;
 using namespace glm;
 
-vec3 Projection(glm::vec3* e, glm::vec3* e_prime, int& i)
+vec3 ProjectionSum(glm::vec3* e, glm::vec3* e_prime, int& i)
 {
 	int k = 0;
 	vec3 result;
@@ -37,7 +37,7 @@ int main()
 
 	do  // Adim C
 	{
-		e_prime[i] = e[i] - Projection(e, e_prime, i);
+		e_prime[i] = e[i] - ProjectionSum(e, e_prime, i);
 
 		i++;    // Adim D
 	} while (i < n);

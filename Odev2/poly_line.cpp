@@ -7,7 +7,7 @@
 const int WIDTH = 640;
 const int HEIGHT = 480;
 int xNumber = 5;
-int yNumber = 4;
+int yNumber = 5;
 void drawPolyLineFile(const char * fileName) {
 
 	std::ifstream inStream;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
 	glutInitDisplayMode( GLUT_SINGLE | GLUT_RGB );
 	glutInitWindowSize( 640,480 );
 	glutInitWindowPosition( 0, 0 );
-	glutCreateWindow( "Poly Line Demo o_O" );
+	glutCreateWindow( "Soru1" );
 	
 	glutDisplayFunc( render );;                   
 	glutMainLoop();

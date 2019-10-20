@@ -70,5 +70,5 @@ int main()
 	{
 		cout << "Polygon icbukey" << endl;
 	}
-
+	return 0;
 }
