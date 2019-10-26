@@ -1,5 +1,2 @@
 ﻿  test.cpp
-D:\repos\BCA-611-Odev-ve-Projeler\Odev3\Soru1\test.cpp(24,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\repos\BCA-611-Odev-ve-Projeler\Odev3\Soru1\test.cpp(32,23): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
-D:\repos\BCA-611-Odev-ve-Projeler\Odev3\Soru1\test.cpp(37,8): warning C4101: 't': unreferenced local variable
-  Soru1.vcxproj -> D:\repos\BCA-611-Odev-ve-Projeler\Odev3\Soru1\Debug\Soru1.exe
+  Soru1.vcxproj -> C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru1\Debug\Soru1.exe
