@@ -1,10 +1,10 @@
 ﻿  Saat.cpp
-C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Saat.cpp(80,28): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Saat.cpp(84,69): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Saat.cpp(100,71): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Saat.cpp(100,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Saat.cpp(106,90): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Saat.cpp(106,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Saat.cpp(106,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Saat.cpp(109,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Saat.cpp(68,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Saat.cpp(72,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Saat.cpp(88,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Saat.cpp(88,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Saat.cpp(94,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Saat.cpp(94,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Saat.cpp(94,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Saat.cpp(97,52): warning C4305: 'argument': truncation from 'double' to 'float'
   Soru2.vcxproj -> C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev3\Soru2\Debug\Soru2.exe

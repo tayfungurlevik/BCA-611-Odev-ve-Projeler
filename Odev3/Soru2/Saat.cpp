@@ -1,15 +1,3 @@
-/////////////////////////////////////////////////////////////////////         
-// circle.cpp
-//
-// This program draws a line loop with vertices equally apart on 
-// a fixed circle. The larger the number of vertices the better
-// the loop approximates the circle.
-//
-// Interaction:
-// Press +/- to increase/decrease the number of vertices of the loop. 
-//
-// Sumanta Guha.
-///////////////////////////////////////////////////////////////////// 
 
 
 #include <cmath>
@@ -118,7 +106,7 @@ void drawScene(void)
 	glBegin(GL_LINES);
 	glVertex3f(0, 0, 0);
 	float akrepUzunlugu = r2 - 8;
-	glVertex3f(sin(glm::radians(((float)ltm.tm_hour/2) * 30)) * akrepUzunlugu, cos(glm::radians((float)ltm.tm_hour/2)) * akrepUzunlugu, 0);
+	glVertex3f(sin(glm::radians(((float)ltm.tm_hour * 30))) * akrepUzunlugu, cos(glm::radians((float)ltm.tm_hour*30)) * akrepUzunlugu, 0);
 	float yelkovanUzunlugu = r2 - 6;
 	glVertex3f(0, 0, 0);
 	glVertex3f(sin(glm::radians((float)ltm.tm_min * 6)) * yelkovanUzunlugu, cos(glm::radians((float)ltm.tm_min)*6) * yelkovanUzunlugu, 0);
