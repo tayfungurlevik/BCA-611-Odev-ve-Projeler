@@ -1,2 +1,19 @@
 ﻿  Odev4.cpp
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(186,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(202,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(205,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(205,23): warning C4244:         with
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(205,23): warning C4244:         [
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(205,23): warning C4244:             T=float
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(205,23): warning C4244:         ]
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(206,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(206,23): warning C4244:         with
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(206,23): warning C4244:         [
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(206,23): warning C4244:             T=float
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(206,23): warning C4244:         ]
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(207,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(207,23): warning C4244:         with
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(207,23): warning C4244:         [
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(207,23): warning C4244:             T=float
+C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Odev4.cpp(207,23): warning C4244:         ]
   Odev4_PCA.vcxproj -> C:\Users\Tayfun\Documents\GitHub\BCA-611-Odev-ve-Projeler\Odev4\Odev4_PCA\Debug\Odev4_PCA.exe
